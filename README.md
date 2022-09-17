@@ -3,7 +3,6 @@
 Submitted by: **Aaron Ivan Gonzalez**
 
 **Gmail** is a simple clone of the Gmail app.
-
 Time spent: **2** hours spent in total
 
 ## Required Features
@@ -16,16 +15,16 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [x] **Gmail app is 🎨 **customized** 🎨
+- [x] **Gmail app is 🎨 customized** 🎨
 - [x] **User can press load more button and view more emails**
 - [x] **User can unbold email when it is clicked**
 
 The following **additional** features are implemented:
 
-* [x] **shadowColor="00ccff"
-* [x] **shadowRadius="2"
-* [x] **shadowDx="1"
-* [x] **shadowDy="1"
+* [x] **shadowColor="00ccff"**
+* [x] **shadowRadius="2"**
+* [x] **shadowDx="1"**
+* [x] **shadowDy="1"**
 
 
 ## Video Walkthrough
@@ -35,7 +34,7 @@ Here's a walkthrough of implemented user stories:
 <<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Screen Record on Android Studio ...  
+GIF created with **Screen Record on Android Studio**  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
